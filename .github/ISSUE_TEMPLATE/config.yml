@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: ThreadScope planning documentation
+    url: https://github.com/brinaryanino/Threadscope/blob/main/MASTER_PROMPT.md
+    about: Review the authoritative workflow and constraints before opening an issue.
