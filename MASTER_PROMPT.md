@@ -61,6 +61,7 @@ Installing skills, interviewing, researching the API, creating the `docs/` tree,
 - Confirmed delivery form: micro-SaaS web application
 - Initial user: a single owner connecting and analyzing their own Threads account
 - Confirmed delivery sequence: build and test a locally runnable end-to-end acceptance version before any remote deployment
+- Confirmed acceptance data source: the Owner's real Threads Account connected through official OAuth and the official Threads API; mock fixtures are for automated testing only
 - Future audience hypothesis, not current scope: solo creators, personal brands, indie makers, or small-business creators
 
 ### Work tracking

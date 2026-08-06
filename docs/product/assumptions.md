@@ -6,6 +6,8 @@
 - ThreadScope is delivered as a micro-SaaS web application.
 - One Owner connects and analyzes their own Threads Account.
 - The first delivery target is a locally runnable, end-to-end website that the Owner can test before any deployment.
+- The local acceptance path must connect to the Owner's real Threads Account through the official Meta Threads API; mock data is not an acceptable substitute for acceptance testing.
+- Mocked Threads API responses remain required for automated tests and CI and must never be mixed with real account data.
 - Remote deployment is out of scope until the local acceptance build has been exercised and accepted.
 - GitHub Issues is the authoritative work tracker.
 - Application feature implementation requires an approved product and technical specification.

@@ -25,5 +25,6 @@ Other documents required by `MASTER_PROMPT.md` will be created as decisions and 
 - Delivery form: micro-SaaS web application
 - Distribution: one Owner; no private beta or public SaaS in the initial release
 - Delivery sequence: locally runnable acceptance build first; deployment only after local testing and acceptance
+- Acceptance data source: the Owner's real Threads Account through official OAuth and API access
 - Active work: structured planning interview
 - Application implementation: not approved

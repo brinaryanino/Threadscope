@@ -5,6 +5,7 @@ ThreadScope is a personal-use micro-SaaS web application that helps its owner un
 > **Project status:** planning and specification only. Do not implement application features until the product and technical specification has been explicitly approved.
 
 The confirmed delivery sequence is **local first**: produce a runnable end-to-end acceptance build for the Owner to test, then consider deployment only after the local build is accepted.
+The acceptance build must connect to the Owner's real Threads account through official OAuth and API access. Mock fixtures are reserved for automated tests and CI.
 
 ## Start here
 
