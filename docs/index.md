@@ -15,6 +15,7 @@ ThreadScope is currently in planning and specification. Application feature work
 - [Domain context](./CONTEXT.md)
 - [Glossary entry point](./GLOSSARY.md)
 - [Product assumptions](./product/assumptions.md)
+- [Threads API feasibility](./research/threads-api-feasibility.md)
 - [Delivery backlog](./delivery/backlog.md)
 
 Other documents required by `MASTER_PROMPT.md` will be created as decisions and verified research become available. Missing documents must not be treated as completed work.
