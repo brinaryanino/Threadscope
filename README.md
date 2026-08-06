@@ -12,6 +12,7 @@ Current repository inputs:
 
 - [`MASTER_PROMPT.md`](./MASTER_PROMPT.md) — canonical planning and delivery instructions
 - [`AGENTS.md`](./AGENTS.md) — concise operating rules for future coding agents
+- [`docs/index.md`](./docs/index.md) — planning documentation index and current decision status
 - [`.agents/skills/`](./.agents/skills/) — installed planning skills required by the master prompt
 - [`skills-lock.json`](./skills-lock.json) — installed-skill lock file
 
@@ -30,6 +31,12 @@ The proposed MVP centers on official account connection, historical snapshots, d
 ## Work tracking
 
 Use [GitHub Issues](https://github.com/brinaryanino/Threadscope/issues) as the authoritative work tracker. Product questions, research tasks, defects, documentation changes, and implementation slices must be represented by issues before work begins.
+
+Current planning sequence:
+
+1. [Complete the planning interview](https://github.com/brinaryanino/Threadscope/issues/1)
+2. [Verify official Threads API feasibility](https://github.com/brinaryanino/Threadscope/issues/2)
+3. [Produce the approved product and technical specification](https://github.com/brinaryanino/Threadscope/issues/3)
 
 - Apply `planning` while an issue still requires a product or technical decision.
 - Apply `ready-for-agent` only when an issue is decision-complete and has testable acceptance criteria.
