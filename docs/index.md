@@ -24,5 +24,6 @@ Other documents required by `MASTER_PROMPT.md` will be created as decisions and 
 - Release stage: personal-use only
 - Delivery form: micro-SaaS web application
 - Distribution: one Owner; no private beta or public SaaS in the initial release
+- Delivery sequence: locally runnable acceptance build first; deployment only after local testing and acceptance
 - Active work: structured planning interview
 - Application implementation: not approved

@@ -5,6 +5,8 @@
 - ThreadScope's initial release is personal-use only.
 - ThreadScope is delivered as a micro-SaaS web application.
 - One Owner connects and analyzes their own Threads Account.
+- The first delivery target is a locally runnable, end-to-end website that the Owner can test before any deployment.
+- Remote deployment is out of scope until the local acceptance build has been exercised and accepted.
 - GitHub Issues is the authoritative work tracker.
 - Application feature implementation requires an approved product and technical specification.
 

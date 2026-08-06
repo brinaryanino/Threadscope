@@ -4,6 +4,8 @@ ThreadScope is a personal-use micro-SaaS web application that helps its owner un
 
 > **Project status:** planning and specification only. Do not implement application features until the product and technical specification has been explicitly approved.
 
+The confirmed delivery sequence is **local first**: produce a runnable end-to-end acceptance build for the Owner to test, then consider deployment only after the local build is accepted.
+
 ## Start here
 
 [`MASTER_PROMPT.md`](./MASTER_PROMPT.md) is the authoritative operating charter for planning and building ThreadScope. It defines the product hypothesis, constraints, required planning interview, documentation outputs, architectural principles, validation requirements, and approval gates.
