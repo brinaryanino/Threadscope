@@ -5,6 +5,7 @@
 - ThreadScope's initial release is personal-use only.
 - ThreadScope is delivered as a micro-SaaS web application.
 - One Owner connects and analyzes their own Threads Account.
+- The real acceptance account is the Owner-provided Threads profile `@brnryanino` (`https://www.threads.com/@brnryanino`).
 - The first delivery target is a locally runnable, end-to-end website that the Owner can test before any deployment.
 - The local acceptance path must connect to the Owner's real Threads Account through the official Meta Threads API; mock data is not an acceptable substitute for acceptance testing.
 - Mocked Threads API responses remain required for automated tests and CI and must never be mixed with real account data.

@@ -62,6 +62,7 @@ Installing skills, interviewing, researching the API, creating the `docs/` tree,
 - Initial user: a single owner connecting and analyzing their own Threads account
 - Confirmed delivery sequence: build and test a locally runnable end-to-end acceptance version before any remote deployment
 - Confirmed acceptance data source: the Owner's real Threads Account connected through official OAuth and the official Threads API; mock fixtures are for automated testing only
+- Confirmed acceptance account: the Owner-provided profile `@brnryanino`; do not infer API authorization from the public profile URL
 - Future audience hypothesis, not current scope: solo creators, personal brands, indie makers, or small-business creators
 
 ### Work tracking
